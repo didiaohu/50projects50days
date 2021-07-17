@@ -2,7 +2,7 @@
 
 所有项目如下所示：
 
-|  #  | 项目                                                                                                                     | 在线 演示                                                                         |
+|  #  | 项目                                                                                                                     | 在线演示                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/didiaohu/50projects50days/tree/main/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/didiaohu/50projects50days/tree/main/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
@@ -63,8 +63,6 @@
 ![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427642697-2491addc-7fc3-4aec-b913-25488605b55f.png)
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427710757-c8b4cafa-fb7e-4e60-83e2-72534b055c36.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427823556-eed5265c-c1a5-4214-bf97-67e70c14c772.png)
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427906335-12bc0c84-666c-4ebc-acc7-ba1052fb2df4.png)
 
